@@ -6,7 +6,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dezmound1&theme=solarized_dark)
 
-| элемент | | метрика  |
+| элемент | | метрика  | |
 |------|-----------|-----|---------------------------------------------------------|
 |группа|Total users|users|                            cr                           |
 |   A  |     57    |  46 |                          80.7%                          |
