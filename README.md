@@ -9,7 +9,7 @@
 
 | |элемент|<!-- -->|Example query (GrowthBook)|
 |-|-|-|-|-|
-|    | группа   | Total users   | users   | cr                                                       |:|::::
+|    | группа   | Total users   | users   | cr                                                       |
 |  0 | A        | 56            | 43      | 76.79%                                                   |
 |  1 | B        | 44            | 40      | 90.91%                                                   |
 |  2 | AB       |               |         | uplift: 117.26% pvalue: 0.0                             |
